@@ -75,7 +75,7 @@ input:focus {
   text-decoration: line-through;
 }
 
-@media all and (min-width: 768px) {
+@media all and (min-max: 768px) {
   #container {
     width: 100%;
   }
